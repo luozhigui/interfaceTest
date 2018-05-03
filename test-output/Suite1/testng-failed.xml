@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test thread-count="5" name="Search Book Api Test(failed)">
+    <classes>
+      <class name="com.pinke.tests.SearchBookApiTest">
+        <methods>
+          <include name="afterClass"/>
+          <include name="testSearcheBook" invocation-numbers="0 1 2"/>
+          <include name="testluok"/>
+        </methods>
+      </class> <!-- com.pinke.tests.SearchBookApiTest -->
+    </classes>
+  </test> <!-- Search Book Api Test(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="2509" started-at="2018-05-02T15:00:26Z" finished-at="2018-05-02T15:00:28Z">
+    <groups>
+    </groups>
+    <test name="Search Book Api Test" duration-ms="2509" started-at="2018-05-02T15:00:26Z" finished-at="2018-05-02T15:00:28Z">
+      <class name="com.pinke.tests.SearchBookApiTest">
+        <test-method status="PASS" signature="dologin()[pri:0, instance:com.pinke.tests.SearchBookApiTest@1fc5af1]" name="dologin" is-config="true" duration-ms="2241" started-at="2018-05-02T15:00:26Z" finished-at="2018-05-02T15:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+        <test-method status="PASS" signature="testSearcheBook()[pri:0, instance:com.pinke.tests.SearchBookApiTest@1fc5af1]" name="testSearcheBook" duration-ms="233" started-at="2018-05-02T15:00:28Z" finished-at="2018-05-02T15:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearcheBook -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.pinke.tests.SearchBookApiTest@1fc5af1]" name="afterClass" is-config="true" duration-ms="1" started-at="2018-05-02T15:00:28Z" finished-at="2018-05-02T15:00:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pinke.tests.SearchBookApiTest -->
+    </test> <!-- Search Book Api Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
