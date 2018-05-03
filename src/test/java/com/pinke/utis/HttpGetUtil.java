@@ -13,7 +13,7 @@
 //	private BasicCookieStore cookes;
 //	private CloseableHttpClient httpClients;
 //
-//	public HttpGetUtil() {
+//	public HttpGetUtil() {//哥来也
 //		
 //  		 cookes = new BasicCookieStore();
 //   				httpClients = HttpClients.custom() // 自定义httpclient对象
